@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Dron.dir/src/OpenGL_API.cpp.o CMakeFiles/Dron.dir/src/main.cpp.o  -o Dron  -lglut -lGLU -lGL -lpthread -pthread 

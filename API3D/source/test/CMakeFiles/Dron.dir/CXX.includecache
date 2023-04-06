@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maciej/Desktop/dron/API3D/source/test/src/main.cpp
+iostream
+-
+OpenGL_API.hh
+/home/maciej/Desktop/dron/API3D/source/test/src/OpenGL_API.hh
+
+inc/Draw3D_api_interface.hh
+vector
+-
+string
+-
+iostream
+-
+
+inc/OpenGL_API.hh
+GL/glut.h
+-
+GL/glu.h
+-
+Draw3D_api_interface.hh
+inc/Draw3D_api_interface.hh
+cmath
+-
+array
+-
+vector
+-
+sstream
+-
+iostream
+-
+thread
+-
+cstdlib
+-
+mutex
+-
+

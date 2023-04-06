@@ -1,0 +1,3 @@
+/home/maciej/Desktop/dron/API3D/source/test/CMakeFiles/rebuild_cache.dir
+/home/maciej/Desktop/dron/API3D/source/test/CMakeFiles/edit_cache.dir
+/home/maciej/Desktop/dron/API3D/source/test/CMakeFiles/Dron.dir
